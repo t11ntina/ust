@@ -40,7 +40,7 @@
                      Background="#BFAA98"
                      BorderBrush="#CCC"
                      BorderThickness="1"/>
-            <Button Content="Супер Войти"
+            <Button Content="Войти"
                     Width="120"
                     Height="30"
                     Background="#BFAA98"
