@@ -40,7 +40,7 @@
                      Background="#BFAA98"
                      BorderBrush="#CCC"
                      BorderThickness="1"/>
-            <Button Content="Войти"
+            <Button Content=" Евгений Дмитриевич лучший преподаватель Войти"
                     Width="120"
                     Height="30"
                     Background="#BFAA98"
